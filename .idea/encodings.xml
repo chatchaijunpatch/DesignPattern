@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/src/main/Design_Pattern/Behavioral_Pattern/Strategy/Text.text" charset="IBM-Thai" />
+  <component name="Encoding" defaultCharsetForPropertiesFiles="IBM-Thai" addBOMForNewFiles="with BOM">
+    <file url="file://$PROJECT_DIR$/src/main/Design_Pattern/Behavioral_Pattern/Strategy/Text.md" charset="IBM-Thai" />
+    <file url="PROJECT" charset="IBM-Thai" />
   </component>
 </project>
