@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8" addBOMForNewFiles="with BOM">
-    <file url="file://$PROJECT_DIR$/src/main/Design_Pattern/Behavioral_Pattern/Strategy/Store/strategy/Main.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/Design_Pattern/Behavioral_Pattern/Strategy/Text.md" charset="UTF-8" />
-    <file url="PROJECT" charset="UTF-8" />
+  <component name="Encoding" defaultCharsetForPropertiesFiles="ISO-8859-1">
+    <file url="file://$PROJECT_DIR$/src/main/Design_Pattern/Behavioral_Pattern/Observer_Pattern/Rice_Server/UpdatedataDisplay/EconStat.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/Design_Pattern/Behavioral_Pattern/Observer_Pattern/Rice_Server/UpdatedataDisplay/NewsRoom.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/Design_Pattern/Behavioral_Pattern/Observer_Pattern/Rice_Server/UpdatedataDisplay/Observer.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/Design_Pattern/Behavioral_Pattern/Observer_Pattern/Rice_Server/data/Rice.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/Design_Pattern/Behavioral_Pattern/Observer_Pattern/Rice_Server/data/Subject.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/Design_Pattern/Behavioral_Pattern/Observer_Pattern/Rice_Server/main.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/Design_Pattern/Behavioral_Pattern/Strategy/Store/strategy/Main.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/Design_Pattern/Behavioral_Pattern/Strategy/Text.md" charset="ISO-8859-1" />
+    <file url="PROJECT" charset="ISO-8859-1" />
   </component>
 </project>

@@ -1,11 +1,11 @@
 Strategy Pattern
 ---
 - is one type of Behavioral Pattern
-- ใช้สำหรับ class ที่มีการเปลี่ยนแปลงตลอดเวลา โดย เอาการทำงานไปเป็น class อื่นและ implement interface เอา
-- สามารถใช้ งานกับ comparator ในการ sort ได้
+- use for class that change function all the time by take function out to new Class and implement interface
+- can use with comparator in sort 
+
+Pros and Con
 ---
-##Pros and Con
--------
-- ลดความยาวในการทำงานใน Class ทำให้แก้ไขได้ง่าย
-- ช่วยลดความซ้ำซ้อน กล่าวคือ การทำงานเหมือนกัน แต่เปลี่ยนแค่ตัวแปร แต่ต้องใช้ ก็อป โค๊ดทั้งหมด (นึกไม่ออกให้นึกถึง การใช้ if ของ function A และ function B เหมือนกัน)
-- Class เยอะมาก เพราะต้องย้ายการทำงานไปไว้ class อื่น
+- decrease code in one class 
+- more easy to fix bug
+- too many class cause we take it out on one clas
